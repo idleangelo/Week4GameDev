@@ -437,6 +437,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedPrefab
       objectReference: {fileID: 0}
+    - target: {fileID: 2180385684168873441, guid: 07fd7caa5961b2945b94eb82c8949c16,
+        type: 3}
+      propertyPath: m_TagString
+      value: Red
+      objectReference: {fileID: 0}
     - target: {fileID: 5994340799175418081, guid: 07fd7caa5961b2945b94eb82c8949c16,
         type: 3}
       propertyPath: m_RootOrder
@@ -519,6 +524,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ba401ed8f74d4d40bdb4ca53271acc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rend: {fileID: 5619680756257722601, guid: 07fd7caa5961b2945b94eb82c8949c16, type: 3}
 --- !u!1001 &2004428359
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -587,6 +593,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BluePrefab
       objectReference: {fileID: 0}
+    - target: {fileID: 6247526552104096159, guid: d292045a5d9f82549b4714ffdb740630,
+        type: 3}
+      propertyPath: m_TagString
+      value: Blue
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -614,3 +625,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ba401ed8f74d4d40bdb4ca53271acc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rend: {fileID: 1103060260042498773, guid: d292045a5d9f82549b4714ffdb740630, type: 3}
