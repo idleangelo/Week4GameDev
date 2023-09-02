@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   studentNumber: 13662919
-  bandReached: 0
+  bandReached: 6
 --- !u!1 &681248591
 GameObject:
   m_ObjectHideFlags: 0
@@ -504,7 +504,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2180385684168873441, guid: 07fd7caa5961b2945b94eb82c8949c16,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1818874370}
+      addedObject: {fileID: 1818874375}
   m_SourcePrefab: {fileID: 100100000, guid: 07fd7caa5961b2945b94eb82c8949c16, type: 3}
 --- !u!1 &1818874369 stripped
 GameObject:
@@ -512,7 +512,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1818874368}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1818874370
+--- !u!114 &1818874375
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
